@@ -2,4 +2,4 @@
 
 ### Courses
 
-- [Slides and Notes](https://github.com/HIT-SE/slides-notes)
+- [Slides and Notes from 计软语你讲师团](https://github.com/HIT-SE/slides-notes)
