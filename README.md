@@ -1,4 +1,4 @@
-# Awesome SE
+# Awesome CS
 
 ### HIT Related Organizations
 
