@@ -13,6 +13,6 @@
 
 ### Community Projects
 
-- [计软语你讲师团](https://github.com/hitergszf/Awesome-HITWH-Resources-Sharing) - 课件习题分享以及学长们的视频讲解。
+- [计软语你讲师团](https://github.com/hitergszf/Awesome-HITWH-Resources-Sharing) - 课件习题分享以及 2018 级语你讲师团的视频讲解。
 - [Awesome Hitrust](https://github.com/h1trust/awesome-hit-rust) - A curated list of Rust code and resources from Hitrust.
 - [Languages Playground](https://github.com/raptazure/playground) - Learn Rust, OCaml, Haskell, Python, JavaScript, TypeScript, C++, Java and more.
