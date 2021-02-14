@@ -5,7 +5,6 @@
 - [Hitrust](https://github.com/h1trust) - Rustaceans from Harbin Institute of Technology.
 - [λ Magic](https://github.com/lambda-magic) - Functional Programming, Type Theory, Magical Spells.
 - [HITLUG](https://github.com/hitlug) - Harbin Institute of Technology \*nix User Group and Mirrors Maintaining.
-- [School of Software, HIT](https://github.com/HIT-SE) - Software Engineering resources sharing.
 
 ### Activities and Competitions
 
