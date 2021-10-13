@@ -5,6 +5,7 @@
 - [Hitrust](https://github.com/h1trust) - Rustaceans from Harbin Institute of Technology.
 - [λ Magic](https://github.com/lambda-magic) - Functional Programming, Type Theory, Magical Spells.
 - [HITLUG](https://github.com/hitlug) - Harbin Institute of Technology \*nix User Group and Mirrors Maintaining.
+- [Information-Security-Courses](https://github.com/RyQcan/HIT-Information-Security-Courses) - Notes of all courses in the second semester of the junior year of the information security major of Harbin Institute of Technology (Weihai).
 
 ### Activities and Competitions
 
